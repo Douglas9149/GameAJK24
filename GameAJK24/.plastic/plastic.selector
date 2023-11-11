@@ -1,0 +1,4 @@
+repository "GameAJK24@Douglas9149@cloud"
+  path "/"
+    br "/main"
+    co "/main"
